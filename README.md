@@ -1,4 +1,4 @@
-<img src = "BL_Aerospace.png" style= "width=250;">
+<img src = "BL_Aerospace.png" width="250px">
 # Aerospace
 BL Aerospace Program
 
