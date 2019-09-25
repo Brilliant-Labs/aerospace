@@ -1,4 +1,4 @@
-![](BL_Aerospace.png)
+<img src"BL_Aerospace.png" style= "width:250px;">
 # Aerospace
 BL Aerospace Program
 
